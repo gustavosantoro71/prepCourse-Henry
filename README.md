@@ -1,2 +1,2 @@
-# prepCourse-Henry
-este es un repositori de prueba del curso Henry. GS
+este repositorio es una prueba de como clonar un repositorio desde github a mi escritorio local.
+
